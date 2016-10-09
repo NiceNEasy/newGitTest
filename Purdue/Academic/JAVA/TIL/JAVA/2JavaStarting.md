@@ -1,6 +1,4 @@
-# JAVA Study_Chapter 1 : Starting Java
+# JAVA Study
 
-## Tables of Contents
-- [자바란 무엇인가?]
-- [JDK  설치]
+## Chapter 1 :: Starting Java
 
